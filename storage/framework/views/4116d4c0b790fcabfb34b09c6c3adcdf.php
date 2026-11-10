@@ -11,7 +11,7 @@
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
 
         <!-- Styles -->
-        <?php echo app('Illuminate\Foundation\Vite')(['resources/css/app.css', 'resources/js/app.js']); ?>
+          <script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="antialiased font-sans">
         <div class="bg-gray-50 text-black/50 dark:bg-black dark:text-white/50">
@@ -34,7 +34,7 @@ $__keyOuter = $__key ?? null;
 $__key = null;
 $__componentSlots = [];
 
-$__key ??= \Livewire\Features\SupportCompiledWireKeys\SupportCompiledWireKeys::generateKey('lw-788464129-0', $__key);
+$__key ??= \Livewire\Features\SupportCompiledWireKeys\SupportCompiledWireKeys::generateKey('lw-2984203481-0', $__key);
 
 $__html = app('livewire')->mount($__name, $__params, $__key, $__componentSlots);
 
@@ -168,4 +168,4 @@ unset($__split);
         </div>
     </body>
 </html>
-<?php /**PATH C:\ServBay\www\servbay\TOKO-BUKU-main\resources\views/welcome.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\ServBay\www\servbay\toko_buku_pwyan\resources\views/welcome.blade.php ENDPATH**/ ?>

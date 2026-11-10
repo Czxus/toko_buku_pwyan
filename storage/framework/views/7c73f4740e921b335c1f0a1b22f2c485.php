@@ -23,4 +23,4 @@
             </a>
         <?php endif; ?><?php if(\Livewire\Mechanisms\ExtendBlade\ExtendBlade::isRenderingLivewireComponent()): ?><!--[if ENDBLOCK]><![endif]--><?php endif; ?>
     <?php endif; ?><?php if(\Livewire\Mechanisms\ExtendBlade\ExtendBlade::isRenderingLivewireComponent()): ?><!--[if ENDBLOCK]><![endif]--><?php endif; ?>
-</nav><?php /**PATH C:\ServBay\www\servbay\TOKO-BUKU-main\resources\views\livewire/welcome/navigation.blade.php ENDPATH**/ ?>
+</nav><?php /**PATH C:\ServBay\www\servbay\toko_buku_pwyan\resources\views\livewire/welcome/navigation.blade.php ENDPATH**/ ?>
