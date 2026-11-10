@@ -61,5 +61,12 @@ class Tenant extends Model
     public function bankAccounts(): HasMany
     {
         return $this->hasMany(TenantBankAccount::class);
+
+    }
+
+     /** @return HasMany<CommissionScheme, $this> */
+    public function commissionSchemes(): HasMany
+    {
+        return $this->hasMany(CommissionScheme::class);
     }
 }
